@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Qusito123/wolf-domo/issues"
   },
-  "homepage": "https://github.com/Qusito123/wolf-domo#readme"
+  "homepage": "https://github.com/Qusito123/wolf-domo#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }

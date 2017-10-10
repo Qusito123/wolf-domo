@@ -1,0 +1,19 @@
+{
+  "name": "wolf-domo",
+  "version": "1.0.0",
+  "description": "mi primer web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qusito123/wolf-domo.git"
+  },
+  "author": "Oscar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qusito123/wolf-domo/issues"
+  },
+  "homepage": "https://github.com/Qusito123/wolf-domo#readme"
+}
